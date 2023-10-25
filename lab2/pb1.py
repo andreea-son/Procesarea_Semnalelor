@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 num_samples = 1000
 freq = 200 # Hz
 A = 2
-phi = np.pi/3
+phi = 0
 delta = np.pi/2
 
 t = np.linspace(0, 0.01, num_samples)
