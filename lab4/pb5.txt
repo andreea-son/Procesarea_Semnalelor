@@ -1,0 +1,2 @@
+Intr-adevar, se pot distinge 5 semnale diferite si conform spectogramei si conform semnalului audio din Audacity.
+Deci, cele 5 vocale pot fi distinse de un program de calculator.
